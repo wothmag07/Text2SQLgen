@@ -2,6 +2,12 @@
 
 An AI-powered natural language to SQL query engine built on a medical database. Ask questions in plain English and get back structured SQL results — powered by Groq's LLaMA 3.3 70B model, FastAPI, React, and PostgreSQL, all orchestrated with Docker Compose.
 
+## Demo
+
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1w0JrIjoQ4N5mdVvb53RRM8eituoAzVDg/view?usp=drive_link)
+
+![Text2SQL Agent UI](demo/Demo-UI.png)
+
 ## Architecture
 
 ```
